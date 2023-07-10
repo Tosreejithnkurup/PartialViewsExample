@@ -25,7 +25,8 @@ namespace PartialViewsExample.Controllers
         ListItems = new List<string>() { 
           "Python",
           "C#",
-          "Go"
+          "Go",
+          "C++"
         }
       };
 

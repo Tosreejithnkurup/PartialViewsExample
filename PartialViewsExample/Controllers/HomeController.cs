@@ -26,7 +26,8 @@ namespace PartialViewsExample.Controllers
           "Python",
           "C#",
           "Go",
-          "C++"
+          "C++",
+          "C"
         }
       };
 

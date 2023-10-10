@@ -9,7 +9,7 @@
 <script>
     document.querySelector("#button-load").addEventListener("click", async function () {
        var response = await fetch("programming-languages");
-       var languages = await response.text();
+       var languages = await response.text();//test
        document.querySelector(".programming-languages-content").innerHTML = languages;
     });
 </script>
